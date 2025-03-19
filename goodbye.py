@@ -26,3 +26,5 @@ goodbye_word = Sentence(
 
 
 print(goodbye_word.get_sentence())
+
+print("Adios")
