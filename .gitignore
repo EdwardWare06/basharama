@@ -1,0 +1,7 @@
+.secrets
+*.txt
+.vscode
+.env
+.venv
+__pycache__
+.idea
